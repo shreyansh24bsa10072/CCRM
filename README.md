@@ -210,7 +210,6 @@ CCRM is a Java SE application that provides comprehensive management of:
 ### Eclipse Setup
 
 1. Download Eclipse IDE.
-<img width="641" height="752" alt="Screenshot 2025-09-25 183704" src="https://github.com/user-attachments/assets/7b4180cd-ab5c-43e0-a37f-9afd0ab433d9" />
 
 3. Configure workspace → Import project.
 4. Verify by running `CCRM.java`.
