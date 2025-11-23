@@ -1,4 +1,4 @@
-# Campus Course & Records Manager (CCRM)
+# Campus Course & Records Manager (CCRM) Shreyansh Singh - 24BSA10072
 
 A console-based **Java SE project** for managing students, courses, enrollments, grades, transcripts, and file utilities.  
 This project demonstrates **OOP principles, Java Streams, NIO.2, Date/Time API, exception handling, design patterns (Singleton, Builder), enums, and recursion**.
@@ -289,5 +289,5 @@ Original work created for educational purposes. Cite references as needed.
 
 ---
 ### GitHub Repository 
-https://github.com/Vaibhav-P1/CCRM-Vb.git
+https://github.com/shreyansh24bsa10072/CCRM.git
 
